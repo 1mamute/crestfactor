@@ -18,5 +18,5 @@ The Crest Factor is measured by how an application or system is in compliance wi
 - Documentation
 - Monitoring (Logging, Alerting, Metrics)
 - High Availability (Self-Healing, Change Management, Emergency Response, Capacity Planning, Business Continuity)
-- Security (Secret Management, Data Protection, Access Management, Vulnerability Assessment)
+- Security (Secret Management, Data Protection, Access Management, Vulnerability Assessment, Threat Assessment, Recovery)
 - Performance (Latency, Efficiency, Scalability)
